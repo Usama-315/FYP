@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(Final_Year_Project)
+project(fyp)
 
 # Default to C99
 if(NOT CMAKE_C_STANDARD)
